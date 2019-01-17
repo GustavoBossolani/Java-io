@@ -1,0 +1,9 @@
+cubo
+tesoura
+sabonete
+controle remoto
+queijo
+presunto
+café
+leite
+Demoramos 1 milissegundos para executar este programa!
